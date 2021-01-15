@@ -17,3 +17,7 @@ You will also see any lint errors in the console.
 ### `npm install`
 
 you should run npm install to get all dependencies .
+
+
+![getseason](https://user-images.githubusercontent.com/60506197/104770568-0e6ede80-5771-11eb-89be-dbb86f140e5b.png)
+
